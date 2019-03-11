@@ -1,0 +1,1 @@
+[null,{"name":"MemberJoin","temp":"mem","event-type":"6","actions":[{"channel":"4","varName":"","message":"**Bem-Vindo ${tempVars(\"mem\")} ao servidor de discord da STRTeam!**","storage":"0","varName2":"","name":"Send Message"}]}]
